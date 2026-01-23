@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bf7e9d22677f586d","type":"group","x":-560,"y":-500,"width":1420,"height":1840,"label":"English"},
+		{"id":"92dbf6965dd7e178","type":"file","file":"TBZ/Allgemein/English/First Year/First Year.md","x":-520,"y":-460,"width":1220,"height":840},
+		{"id":"f2a30d9b5ee3b16f","type":"file","file":"TBZ/Allgemein/English/First Year/Quartal 1/Quartal 1.md","x":-180,"y":-420,"width":400,"height":360},
+		{"id":"5d102d2e555e4e4f","type":"file","file":"TBZ/Allgemein/English/First Year/Quartal 2/Quartal 2.md","x":260,"y":-420,"width":400,"height":360},
+		{"id":"287e210dac79e53f","type":"file","file":"TBZ/Allgemein/English/First Year/Quartal 3/Quartal 3.md","x":-180,"y":-20,"width":400,"height":360},
+		{"id":"06a8184687b7fd6b","type":"file","file":"TBZ/Allgemein/English/First Year/Quartal 4/Quartal 4.md","x":260,"y":-20,"width":400,"height":360}
+	],
+	"edges":[]
+}
