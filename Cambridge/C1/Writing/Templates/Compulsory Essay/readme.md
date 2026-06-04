@@ -1,11 +1,11 @@
 ---
 aliases:
-  - Compulsory Essay Templates
+  - Compulsory Essay Structure
 ---
-# Structure Templates
+# Compulsory Essay
 
-
-## Paragraph 1: Introduction
+## Structure Template:
+### Paragraph 1: Introduction
 
 - Sentence 1 (The Hook): Introduce the general topic neutrally.
 
@@ -18,7 +18,7 @@ aliases:
 - Sentence 3 (Thesis): State what this essay will evaluate.
 
 	**_"This essay will analyze two potential approaches to this issue and determine which is most effective."_**
-## Paragraph 2: First Aspect (The less important one)
+### Paragraph 2: First Aspect (The less important one)
 
 - _Topic Sentence:_ Introduce the first point.
 	**_"On the one hand, it is widely recognized that [Point A] plays a crucial role..."_**
@@ -27,7 +27,7 @@ aliases:
 	- Example/Result: 
  
 	_**"Consequently, this leads to..."**_
-## Paragraph 3: Second Aspect (The more important one)
+### Paragraph 3: Second Aspect (The more important one)
 
 - _Topic Sentence:_ Transition to the second point, making it sound stronger.
 	
@@ -38,7 +38,7 @@ aliases:
 
 	**_"As a result, the long-term benefits are arguably far more substantial."_**
 
-## Paragraph 4: Conclusion & Verdict
+### Paragraph 4: Conclusion & Verdict
 
 - _Sentence 1:_ Summarize both sides.
 
@@ -47,3 +47,5 @@ aliases:
 - _Sentence 2 (The Verdict):_  Explicitly state which outweighs the other and why.
 
 	**_"... it is my view that [Point B] represents the superior approach because [Reason]"_** 
+
+
