@@ -1,0 +1,128 @@
+
+<h2 class="sr-only" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)">C2 vocabulary reference organised by category with word, meaning, and example for each entry.</h2>
+
+<style>
+.cat-btn { padding: 7px 14px; border-radius: var(--border-radius-md); border: 0.5px solid var(--color-border-secondary); background: transparent; color: var(--color-text-secondary); font-size: 13px; cursor: pointer; }
+.cat-btn.active { border-width: 1.5px; font-weight: 500; }
+.word-card { background: var(--color-background-primary); border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); padding: 1rem 1.25rem; }
+.word-main { font-size: 15px; font-weight: 500; color: var(--color-text-primary); margin: 0 0 2px; }
+.word-pos { font-size: 12px; color: var(--color-text-tertiary); font-style: italic; margin: 0 0 6px; }
+.word-def { font-size: 13px; color: var(--color-text-secondary); margin: 0 0 8px; line-height: 1.5; }
+.word-ex { font-size: 13px; color: var(--color-text-primary); border-left: 2px solid var(--color-border-secondary); padding-left: 10px; margin: 0; line-height: 1.5; font-style: italic; }
+.badge { font-size: 11px; font-weight: 500; padding: 3px 9px; border-radius: var(--border-radius-md); }
+</style>
+
+<div style="padding: 1rem 0;">
+  <div id="cat-buttons" style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 1.5rem;"></div>
+  <div id="word-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px;"></div>
+</div>
+
+<script>
+const cats = [
+  { id: 'argument', label: 'Arguing & reasoning', color: '#185FA5', bg: '#E6F1FB', tbg: '#0C447C' },
+  { id: 'critical', label: 'Critical analysis', color: '#3C3489', bg: '#EEEDFE', tbg: '#26215C' },
+  { id: 'concession', label: 'Concession & nuance', color: '#0F6E56', bg: '#E1F5EE', tbg: '#085041' },
+  { id: 'emphasis', label: 'Emphasis & degree', color: '#854F0B', bg: '#FAEEDA', tbg: '#633806' },
+  { id: 'nouns', label: 'High-register nouns', color: '#993C1D', bg: '#FAECE7', tbg: '#712B13' },
+  { id: 'verbs', label: 'Precise verbs', color: '#993556', bg: '#FBEAF0', tbg: '#72243E' },
+  { id: 'adj', label: 'Sophisticated adjectives', color: '#5F5E5A', bg: '#F1EFE8', tbg: '#2C2C2A' },
+];
+
+const words = [
+  { cat:'argument', word:'substantiate', pos:'verb', def:'To provide evidence to support a claim', ex:'This assertion is not easily substantiated by the available data.' },
+  { cat:'argument', word:'contend', pos:'verb', def:'To argue or maintain firmly', ex:'Proponents contend that the benefits far outweigh the risks.' },
+  { cat:'argument', word:'premise', pos:'noun', def:'A statement on which an argument is based', ex:'The entire argument rests on a flawed premise.' },
+  { cat:'argument', word:'untenable', pos:'adj', def:'(of a position) impossible to defend', ex:'Such a position becomes untenable in light of recent evidence.' },
+  { cat:'argument', word:'cogent', pos:'adj', def:'Clear, logical, and convincing', ex:'She put forward a cogent case for reform.' },
+  { cat:'argument', word:'corroborate', pos:'verb', def:'To confirm or support with evidence', ex:'These findings corroborate what earlier studies suggested.' },
+  { cat:'argument', word:'axiom', pos:'noun', def:'A self-evident truth widely accepted', ex:'It has become something of an axiom in public discourse.' },
+  { cat:'argument', word:'irrefutable', pos:'adj', def:'Impossible to deny or disprove', ex:'The evidence is, at this point, irrefutable.' },
+
+  { cat:'critical', word:'conflate', pos:'verb', def:'To combine two distinct things, incorrectly treating them as the same', ex:'Critics conflate correlation with causation.' },
+  { cat:'critical', word:'scrutiny', pos:'noun', def:'Critical examination or analysis', ex:'This claim deserves far closer scrutiny.' },
+  { cat:'critical', word:'reductive', pos:'adj', def:'Presenting complex issues in an oversimplified way', ex:'Such an approach is dangerously reductive.' },
+  { cat:'critical', word:'presuppose', pos:'verb', def:'To assume something in advance', ex:'The argument presupposes a degree of consensus that does not exist.' },
+  { cat:'critical', word:'appraisal', pos:'noun', def:'A careful assessment', ex:'An honest appraisal of the evidence reveals a more complicated picture.' },
+  { cat:'critical', word:'dichotomy', pos:'noun', def:'A division into two opposing groups', ex:'The debate presents a false dichotomy between growth and sustainability.' },
+  { cat:'critical', word:'nuance', pos:'noun', def:'A subtle distinction or variation', ex:'The policy debate lacks the necessary nuance.' },
+  { cat:'critical', word:'oversimplification', pos:'noun', def:'An explanation that ignores important complexity', ex:'To blame one factor is a gross oversimplification.' },
+
+  { cat:'concession', word:'notwithstanding', pos:'prep/adv', def:'In spite of; nevertheless', ex:'Notwithstanding these concerns, the proposal has considerable merit.' },
+  { cat:'concession', word:'albeit', pos:'conj', def:'Though; even if', ex:'Progress has been made, albeit at a frustratingly slow pace.' },
+  { cat:'concession', word:'concede', pos:'verb', def:'To admit something is true, often reluctantly', ex:'One must concede that the policy has produced some positive outcomes.' },
+  { cat:'concession', word:'by no means', pos:'phrase', def:'Definitely not; used to qualify a negative', ex:'The problem is by no means straightforward.' },
+  { cat:'concession', word:'caveat', pos:'noun', def:'A warning or qualification', ex:'There is an important caveat that must accompany this conclusion.' },
+  { cat:'concession', word:'temper', pos:'verb', def:'To moderate or restrain', ex:'Optimism should be tempered by an awareness of the obstacles ahead.' },
+  { cat:'concession', word:'nonetheless', pos:'adv', def:'In spite of that; nevertheless', ex:'The risks are real; nonetheless, inaction carries its own dangers.' },
+
+  { cat:'emphasis', word:'indefensible', pos:'adj', def:'Not justifiable; impossible to defend', ex:'To ignore this evidence is morally indefensible.' },
+  { cat:'emphasis', word:'profound', pos:'adj', def:'Very great or intense; of deep significance', ex:'The implications are profound and far-reaching.' },
+  { cat:'emphasis', word:'scarcely', pos:'adv', def:'Only just; almost not', ex:'Society has scarcely begun to grapple with these consequences.' },
+  { cat:'emphasis', word:'unequivocal', pos:'adj', def:'Leaving no doubt; clear and absolute', ex:'The research offers unequivocal support for this view.' },
+  { cat:'emphasis', word:'paramount', pos:'adj', def:'More important than anything else', ex:'Transparency in this process is of paramount importance.' },
+  { cat:'emphasis', word:'all the more', pos:'phrase', def:'Even more so because of a reason just given', ex:'This makes robust regulation all the more necessary.' },
+
+  { cat:'nouns', word:'commodification', pos:'noun', def:'The treatment of something as a commercial product', ex:'The commodification of personal data has alarmed privacy advocates.' },
+  { cat:'nouns', word:'imperative', pos:'noun', def:'An urgent need or demand', ex:'There is a moral imperative to act on this issue.' },
+  { cat:'nouns', word:'ramification', pos:'noun', def:'A complex or unwelcome consequence', ex:'The ramifications of this policy are only beginning to emerge.' },
+  { cat:'nouns', word:'precedent', pos:'noun', def:'An earlier event used as an example for future situations', ex:'History offers ample precedent for such a transition.' },
+  { cat:'nouns', word:'governance', pos:'noun', def:'The system of rules and accountability for an organisation or society', ex:'Robust governance frameworks are urgently needed.' },
+  { cat:'nouns', word:'trajectory', pos:'noun', def:'The path or development over time', ex:'The current trajectory is cause for serious concern.' },
+  { cat:'nouns', word:'disposition', pos:'noun', def:'A tendency or inclination', ex:'There is a cultural disposition to distrust institutional authority.' },
+
+  { cat:'verbs', word:'exacerbate', pos:'verb', def:'To make a problem worse', ex:'Poor regulation has only exacerbated existing inequalities.' },
+  { cat:'verbs', word:'engender', pos:'verb', def:'To cause or give rise to', ex:'Such policies tend to engender resentment rather than cooperation.' },
+  { cat:'verbs', word:'underpin', pos:'verb', def:'To support or form the basis of', ex:'Democratic values underpin all of our institutions.' },
+  { cat:'verbs', word:'mitigate', pos:'verb', def:'To lessen the severity of something', ex:'Targeted measures can mitigate the worst effects of the transition.' },
+  { cat:'verbs', word:'warrant', pos:'verb', def:'To justify or make necessary', ex:'This claim warrants considerably more scrutiny.' },
+  { cat:'verbs', word:'perpetuate', pos:'verb', def:'To cause something to continue indefinitely', ex:'The system perpetuates cycles of disadvantage.' },
+  { cat:'verbs', word:'grapple with', pos:'phrasal v', def:'To struggle to deal with a difficult problem', ex:'Societies are only beginning to grapple with these questions.' },
+
+  { cat:'adj', word:'contentious', pos:'adj', def:'Causing or likely to cause argument', ex:'This remains a highly contentious area of policy.' },
+  { cat:'adj', word:'pervasive', pos:'adj', def:'Spreading widely throughout; prevalent', ex:'The influence of social media has become pervasive.' },
+  { cat:'adj', word:'tenuous', pos:'adj', def:'Very weak or slight; lacking substance', ex:'The link between the two phenomena is, at best, tenuous.' },
+  { cat:'adj', word:'sweeping', pos:'adj', def:'Wide in range; overly broad', ex:'Such sweeping generalisations rarely withstand scrutiny.' },
+  { cat:'adj', word:'intrinsic', pos:'adj', def:'Belonging naturally; essential', ex:'These risks are not intrinsic to the technology itself.' },
+  { cat:'adj', word:'insidious', pos:'adj', def:'Proceeding harmfully in a subtle or gradual way', ex:'The effects on mental health are insidious and easily overlooked.' },
+  { cat:'adj', word:'eloquent', pos:'adj', def:'Fluent and persuasive in expression', ex:'The essay makes an eloquent case for reform.' },
+];
+
+let active = 'argument';
+
+function renderButtons() {
+  const container = document.getElementById('cat-buttons');
+  container.innerHTML = '';
+  cats.forEach(c => {
+    const btn = document.createElement('button');
+    btn.className = 'cat-btn' + (c.id === active ? ' active' : '');
+    btn.textContent = c.label;
+    if(c.id === active) {
+      btn.style.background = c.bg;
+      btn.style.color = c.tbg;
+      btn.style.borderColor = c.color;
+    }
+    btn.onclick = () => { active = c.id; renderButtons(); renderWords(); };
+    container.appendChild(btn);
+  });
+}
+
+function renderWords() {
+  const grid = document.getElementById('word-grid');
+  const cat = cats.find(c => c.id === active);
+  const filtered = words.filter(w => w.cat === active);
+  grid.innerHTML = '';
+  filtered.forEach(w => {
+    const card = document.createElement('div');
+    card.className = 'word-card';
+    card.innerHTML = `
+      <p class="word-main">${w.word} <span class="badge" style="background:${cat.bg};color:${cat.tbg};margin-left:4px;">${w.pos}</span></p>
+      <p class="word-def">${w.def}</p>
+      <p class="word-ex">${w.ex}</p>
+    `;
+    grid.appendChild(card);
+  });
+}
+
+renderButtons();
+renderWords();
+</script>
