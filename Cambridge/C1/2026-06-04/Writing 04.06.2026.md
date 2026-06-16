@@ -1,5 +1,7 @@
 # Part 1
 
+NGEE2_W_Test2_Part1
+
 After a recent lecture,  the proposed meat ban from the canteen has come to the forefront of public debate. While some argue that banning meat is paramount, others emphasize the significance of meat in our nutrition.
 This essay will analyze two potential approaches to this issue and determine which is most effective.
 
