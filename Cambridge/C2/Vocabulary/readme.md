@@ -1,3 +1,16 @@
+---
+aliases:
+  - C2 Vocabulary
+---
+- [A](#A)
+- [B](#B)
+- [C](#C)
+- [D](#D)
+
+# Vocabulary - Cambridge C2
+
+## A
+
 | A             |        | Translation                                   |
 | ------------- | ------ | --------------------------------------------- |
 | to abate      | (v)    | nachlassen / abklingen                        |
@@ -71,155 +84,2017 @@
 | ambivalent    | (adj)  | ambivalent / zwiespältig                      |
 | ambrosial     | (adj)  | göttlich lecker / herrlich duftend            |
 | to ameliorate | (v)    | verbessern / aufbessern                       |
-| amenable      | (adj)  | zugänglich / empfänglich (für Vorschläge)      |
-| anachronism   | (n)    | der Anachronismus / zeitliche Fehleinordnung   |
-| anachronistic | (adj)  | anachronistisch / unzeitgemäß                   |
-| analogous     | (adj)  | analog / vergleichbar                           |
-| anarchy       | (n)    | die Anarchie / Gesetzlosigkeit                 |
-| anathema      | (n)    | das Gräuel / ein Fluch / absolut Verhasstes     |
-| anecdote      | (n)    | die Anekdote                                    |
-| anguish       | (n)    | die Qual / der tiefe Schmerz                    |
-| animosity     | (n)    | die Feindseligkeit / der Groll                  |
-| annihilation  | (n)    | die Vernichtung / Auslöschung                   |
-| annum         | (n)    | das Jahr (meist pro Jahr: per annum)            |
-| anomaly       | (n)    | die Anomalie / Abweichung                       |
-| to antagonise | (v)    | gegen sich aufbringen / verärgern               |
-| antecedent    | (n)    | die Vorgeschichte / das Vorangegangene          |
-| antidote      | (n)    | das Gegenmittel / Gegenelixier                  |
-| antipathy     | (n)    | die Antipathie / Abneigung                        |
-| antiquated    | (adj)  | veraltet / altertümlich                         |
-| antiquity     | (n)    | die Antike / das Altertum                       |
-| antithesis    | (n)    | die Antithese / das direkte Gegenteil           |
-| apathetic     | (adj)  | apathisch / teilnahmslos                        |
-| aperture      | (n)    | die Öffnung / die Blende (Kamera)               |
-| apex          | (n)    | die Spitze / der Scheitelpunkt                  |
-| aplomb        | (n)    | die Gelassenheit / Souveränität                 |
-| apostle       | (n)    | der Apostel / Verfechter einer Idee             |
-| apparatus     | (n)    | der Apparat / das Gerät                         |
-| apparition    | (n)    | die Erscheinung / das Gespenst                  |
-| to appease    | (v)    | beruhigen / beschwichtigen                      |
-| appellation   | (n)    | die Bezeichnung / der Name                      |
-| apprehension  | (n)    | die Befürchtung / die Festnahme                 |
-| apprehensive  | (adj)  | besorgt / ängstlich / ahnungsvoll               |
-| aptitude        | (n)    | die Eignung / die Begabung                      |
-| arbiter         | (n)    | der Schiedsrichter / Vermittler                 |
-| arcane          | (adj)  | geheim / kryptisch / arkand                     |
-| archetype       | (n)    | der Archetyp / das Urbild                       |
-| archipelago     | (n)    | das Archipel / die Inselgruppe                  |
-| ardour          | (n)    | die Leidenschaft / der Eifer / die Glut         |
-| arduous         | (adj)  | mühsam / anstrengend                            |
-| arguably        | (adv)  | wohl / wohlbemerkt / wohl argumentierbar        |
-| armistice       | (n)    | der Waffenstillstand                            |
-| arrogance       | (n)    | die Arroganz / Überheblichkeit                  |
-| artifice        | (n)    | die List / der Kunstgriff                       |
-| artisan         | (n)    | der Handwerker / Kunsthandwerker                |
-| ascendancy      | (n)    | die Vormachtstellung / der Aufstieg             |
-| to ascertain    | (v)    | feststellen / ermitteln                         |
-| aspersion       | (n)    | die Verleumdung / Verunglimpfung                |
-| assiduous       | (adj)  | fleißig / gewissenhaft / unermüdlich            |
-| to assuage      | (v)    | lindern / beruhigen / besänftigen               |
-| astute          | (adj)  | schlau / scharfsinnig                           |
-| to atone        | (v)    | büßen / wieder gutmachen                        |
-| attrition       | (n)    | der Abrieb / die Zermürbung / der Schwund       |
-| audacity        | (n)    | die Dreistigkeit / Kühnheit                     |
-| to augment      | (v)    | vermehren / vergrößern / aufstocken             |
-| auspicious      | (adj)  | vielversprechend / günstig                        |
-| austere         | (adj)  | streng / spartanisch / nüchtern                   |
-| autocracy       | (n)    | die Autokratie / Alleinherrschaft                 |
-| autocrat        | (n)    | der Autokrat / Alleinherrscher                    |
-| avarice         | (n)    | die Habgier / der Geiz                            |
-| aversion        | (n)    | die Aversion / der Widerwille                     |
-| axiom           | (n)    | das Axiom / der Grundsatz                         |
-| axiomatic       | (adj)  | axiomatisch / selbstverständlich                  |
+| amenable      | (adj)  | zugänglich / empfänglich (für Vorschläge)     |
+| anachronism   | (n)    | der Anachronismus / zeitliche Fehleinordnung  |
+| anachronistic | (adj)  | anachronistisch / unzeitgemäß                 |
+| analogous     | (adj)  | analog / vergleichbar                         |
+| anarchy       | (n)    | die Anarchie / Gesetzlosigkeit                |
+| anathema      | (n)    | das Gräuel / ein Fluch / absolut Verhasstes   |
+| anecdote      | (n)    | die Anekdote                                  |
+| anguish       | (n)    | die Qual / der tiefe Schmerz                  |
+| animosity     | (n)    | die Feindseligkeit / der Groll                |
+| annihilation  | (n)    | die Vernichtung / Auslöschung                 |
+| annum         | (n)    | das Jahr (meist pro Jahr: per annum)          |
+| anomaly       | (n)    | die Anomalie / Abweichung                     |
+| to antagonise | (v)    | gegen sich aufbringen / verärgern             |
+| antecedent    | (n)    | die Vorgeschichte / das Vorangegangene        |
+| antidote      | (n)    | das Gegenmittel / Gegenelixier                |
+| antipathy     | (n)    | die Antipathie / Abneigung                    |
+| antiquated    | (adj)  | veraltet / altertümlich                       |
+| antiquity     | (n)    | die Antike / das Altertum                     |
+| antithesis    | (n)    | die Antithese / das direkte Gegenteil         |
+| apathetic     | (adj)  | apathisch / teilnahmslos                      |
+| aperture      | (n)    | die Öffnung / die Blende (Kamera)             |
+| apex          | (n)    | die Spitze / der Scheitelpunkt                |
+| aplomb        | (n)    | die Gelassenheit / Souveränität               |
+| apostle       | (n)    | der Apostel / Verfechter einer Idee           |
+| apparatus     | (n)    | der Apparat / das Gerät                       |
+| apparition    | (n)    | die Erscheinung / das Gespenst                |
+| to appease    | (v)    | beruhigen / beschwichtigen                    |
+| appellation   | (n)    | die Bezeichnung / der Name                    |
+| apprehension  | (n)    | die Befürchtung / die Festnahme               |
+| apprehensive  | (adj)  | besorgt / ängstlich / ahnungsvoll             |
+| aptitude      | (n)    | die Eignung / die Begabung                    |
+| arbiter       | (n)    | der Schiedsrichter / Vermittler               |
+| arcane        | (adj)  | geheim / kryptisch / arkand                   |
+| archetype     | (n)    | der Archetyp / das Urbild                     |
+| archipelago   | (n)    | das Archipel / die Inselgruppe                |
+| ardour        | (n)    | die Leidenschaft / der Eifer / die Glut       |
+| arduous       | (adj)  | mühsam / anstrengend                          |
+| arguably      | (adv)  | wohl / wohlbemerkt / wohl argumentierbar      |
+| armistice     | (n)    | der Waffenstillstand                          |
+| arrogance     | (n)    | die Arroganz / Überheblichkeit                |
+| artifice      | (n)    | die List / der Kunstgriff                     |
+| artisan       | (n)    | der Handwerker / Kunsthandwerker              |
+| ascendancy    | (n)    | die Vormachtstellung / der Aufstieg           |
+| to ascertain  | (v)    | feststellen / ermitteln                       |
+| aspersion     | (n)    | die Verleumdung / Verunglimpfung              |
+| assiduous     | (adj)  | fleißig / gewissenhaft / unermüdlich          |
+| to assuage    | (v)    | lindern / beruhigen / besänftigen             |
+| astute        | (adj)  | schlau / scharfsinnig                         |
+| to atone      | (v)    | büßen / wieder gutmachen                      |
+| attrition     | (n)    | der Abrieb / die Zermürbung / der Schwund     |
+| audacity      | (n)    | die Dreistigkeit / Kühnheit                   |
+| to augment    | (v)    | vermehren / vergrößern / aufstocken           |
+| auspicious    | (adj)  | vielversprechend / günstig                    |
+| austere       | (adj)  | streng / spartanisch / nüchtern               |
+| autocracy     | (n)    | die Autokratie / Alleinherrschaft             |
+| autocrat      | (n)    | der Autokrat / Alleinherrscher                |
+| avarice       | (n)    | die Habgier / der Geiz                        |
+| aversion      | (n)    | die Aversion / der Widerwille                 |
+| axiom         | (n)    | das Axiom / der Grundsatz                     |
+| axiomatic     | (adj)  | axiomatisch / selbstverständlich              |
+## B
+| Letter B                   | B       | Translation                                                        |
+| -------------------------- | ------- | ------------------------------------------------------------------ |
+| backlash                   | (n)     | die Gegenreaktion / der Aufschrei                                  |
+| baleful                    | (adj)   | unheilvoll / unheilbrütend                                         |
+| to balk                    | (v)     | zurückschrecken / sich weigern                                     |
+| ballast                    | (n)     | der Ballast                                                        |
+| balm                       | (n)     | der Balsam / die Wohltat                                           |
+| banal                      | (adj)   | banal / platt                                                      |
+| bane                       | (n)     | der Fluch / das Verderben                                          |
+| barrage                    | (n)     | das Trommelfall / eine Flut von (Fragen)                           |
+| bastion                    | (n)     | die Bastion / das Bollwerk                                         |
+| to bear up                 | (phr v) | durchhalten / sich wacker schlagen                                 |
+| bedlam                     | (n)     | das Irrenhaus / totales Chaos                                      |
+| to beguile                 | (v)     | betören / täuschen / bezirken                                      |
+| behemoth                   | (n)     | das Riesenungeheuer / der Gigant                                   |
+| to beleaguer               | (v)     | belagern / bedrängen                                               |
+| to belie                   | (v)     | Lügen strafen / täuschen / im Widerspruch stehen zu                |
+| bellicose                  | (adj)   | kriegerisch / angriffslustig                                       |
+| belligerent                | (adj)   | angriffslustig / streitsüchtig / kriegsführend                     |
+| bellwether                 | (n)     | der Leithammel / Trendsetter                                       |
+| to bemoan                  | (v)     | beklagen / bejammern                                               |
+| benefactor                 | (n)     | der Gönner / Wohltäter                                             |
+| benevolence                | (n)     | die Güte / das Wohlwollen                                          |
+| benevolent                 | (adj)   | wohlwollend / gütig                                                |
+| to bequeath                | (v)     | vererben / hinterlassen                                            |
+| bequest                    | (n)     | das Vermächtnis / das Erbe                                         |
+| to berate                  | (v)     | ausschimpfen / zusammenstauchen                                    |
+| bereavement                | (n)     | der schwere Verlust / Trauerfall                                   |
+| bereft                     | (adj)   | beraubt / einsam / verlassen                                       |
+| to beseech                 | (v)     | anflehen / inständig bitten                                        |
+| to beset                   | (v)     | bedrängen / plagen                                                 |
+| besotted (adj)             | (adj)   | vernarrt / betört                                                  |
+| to bestow                  | (v)     | verleihen / schenken                                               |
+| bewitching (adj)           | (adj)   | bezaubernd / betörend                                              |
+| bigotry (n)                | (n)     | die Intoleranz / der Fanatismus / die Engstirnigkeit               |
+| bilateral (adj)            | (adj)   | bilateral / zweiseitig                                             |
+| to billow                  | (v)     | aufblähen / wogen (z.B. Rauch, Segel)                              |
+| to bite the bullet (idiom) | (phr v) | in den sauren Apfel beißen                                         |
+| blasphemy (n)              | (n)     | die Gotteslästerung / Blasphemie                                   |
+| blithe (adj)               | (adj)   | unbeschwert / fröhlich / sorglos                                   |
+| boisterous (adj)           | (adj)   | ungestüm / ausgelassen / wild                                      |
+| bombastic (adj)            | (adj)   | bombastisch / hochtrabend (oft negativ für geschwollen)            |
+| boon (n)                   | (n)     | der Segen / die Wohltat                                            |
+| boorish (adj)              | (adj)   | flegelhaft / rüpelhaft                                             |
+| bounty (n)                 | (n)     | das Kopfgeld / die Prämie / reiche Fülle                           |
+| bourgeois (n)              | (n)     | das Bürgertum / die Bourgeoisie                                    |
+| to brandish                | (v)     | schwingen / fuchteln (mit einer Waffe)                             |
+| bravado (n)                | (n)     | das Prunken / die Prahlerei / das Draufgängertum                   |
+| bravura (n)                | (n)     | die Bravour / Glanzleistung                                        |
+| brevity (n)                | (n)     | die Kürze / Prägnanz                                               |
+| brinkmanship (n)           | (n)     | die Politik des kalkulierten Risikos (bis an den Rand des Krieges) |
+| brusque (adj)              | (adj)   | brüsk / schroff / barsch                                           |
+| bulwark (n)                | (n)     | das Bollwerk / Schutzwall                                          |
+| to burgeon                 | (v)     | sprießen / florieren / schnell wachsen                             |
+| to buttress                | (v)     | untermauern / stützen                                              |
+| byword (n)                 | (n)     | der Inbegriff / das Paradebeispiel                                 |
+## C
+| C | |Translation |
+| - | - | - |
+| cabal (n) | (n) | die Kabale / die Geheimclique |
+| cache (n) | (n) | das Versteck / das Geheimlager |
+| cacophony (n) | (n) | die Kakofonie / der Missklang |
+| cadence (n) | (n) | der Rhythmus / Tonfall / die Kadenz |
+| to cajole (v) | (v) | einschmeicheln / beschwatzen / umgarnen |
+| calibre (n) | (n) | das Format / Formatklasse / Kaliber |
+| callous (adj) | (adj) | gefühllos / unbarmherzig / kaltherzig |
+| camaraderie (n) | (n) | die Kameradschaft / der Zusammenhalt |
+| candour (n) | (n) | die Offenheit / Aufrichtigkeit |
+| cantankerous (adj) | (adj) | mürrisch / streitsüchtig / griesgrämig |
+| to capitulate (v) | (v) | kapitulieren / aufgeben |
+| capricious (adj) | (adj) | launisch / launenhaft / unberechenbar |
+| cardinal (adj) | (adj) | grundlegend / fundamental / Haupt- |
+| cartography (n) | (n) | die Kartografie / Kartierung |  
+| caste (n) | (n) | die Kaste / Gesellschaftsklasse |
+| to castigate (v) | (v) | züchtigen / scharf rügen / strafen |
+| cataclysm (n) | (n) | die Katastrophe / die Umwälzung |
+| catharsis (n) | (n) | die Katharsis / seelische Reinigung |
+| caustic (adj) | (adj) | ätzend / bissig / sarkastisch |
+| cavalcade (n) | (n) | der Festzug / Reiterzug |
+| caveat (n) | (n) | der Vorbehalt / die Einschränkung / Warnung |
+| censure (n) | (n) | der Tadel / der Verweis |
+| to censure (v) | (v) | tadeln / rügen |
+| cessation (n) | (n) | die Einstellung / das Aufhören |
+| chagrin (n) | (n) | der Kummer / der Verdruss / die Enttäuschung |
+| charlatan (n) | (n) | der Scharlatan / Schwindler |
+| chasm (n) | (n) | die Kluft / die tiefe Spalte |
+| to chastise (v) | (v) | züchtigen / strafen / ausschimpfen |
+| chattel (n) | (n) | die bewegliche Habe / das Eigentum (historisch Sklaven) |
+| chicanery (n) | (n) | die Schikane / die Trickserei |
+| to chide (v) | (v) | schelten / rügen |
+| chronology (n) | (n) | die Chronologie |
+| churlish (adj) | (adj) | unhöflich / grob / unfreundlich |
+| circumspect (adj) | (adj) | umsichtig / vorsichtig |
+| to circumvent (v) | (v) | umgehen / ausweichen |
+| citadel (n) | (n) | die Zitadelle / Festung |
+| clandestine (adj) | (adj) | geheim / clandestin |
+| to cleave (v) | (v) | spalten / sich trennen |
+| clemency (n) | (n) | die Gnade / Mildigkeit |
+| clique (n) | (n) | die Gruppe / der Kreis |
+| cloister (n) | (n) | das Kloster / der Refektorium |
+| cloistered (adj) | (adj) | klosterhaft / abgeschlossen |
+| clout (n) | (n) | Einfluss / Macht |
+| to coalesce (v) | (v) | verschmelzen / zusammenwachsen |
+| to coerce (v) | (v) | zwingen / erpressen |
+| coercion (n) | (n) | Zwang / Erpressung |
+| cogent (adj) | (adj) | überzeugend / plausibel |
+| cohesion (n) | (n) | die Kohäsion / der Zusammenhalt |
+| to collude (v) | (v) | zusammenarbeiten / verschwören |
+| collusion (n) | (n) | die Kollusion / das Verschwören |
+| colossal (adj) | (adj) | kolossal / gigantisch |
+| colossus (n) | (n) | der Koloss / das Riesenwesen |
+| commensurate (adj) | (adj) | angemessen / proportional |
+| to commiserate (v) | (v) | mitleiden / beklagen |
+| compatriot (n) | (n) | der Landsmann / Mitbürger |
+| complacency (n) | (n) | die Zufriedenheit / die Selbstzufriedenheit |
+| complacent (adj) | (adj) | zufrieden / selbstzufrieden |
+| complementary (adj) | (adj) | ergänzend / komplementär |
+| complicity (n) | (n) | die Mitwirkung / die Zusammenarbeit |
+| compulsion (n) | (n) | die Zwangsmaßnahme / der Zwang |
+| concatenation (n) | (n) | die Verkettung / das Zusammenfügen |
+| conciliatory (adj) | (adj) | versöhnlich / besänftigend |
+| conclave (n) | (n) | der Konsistorium / die geheime Versammlung |
+| concordance (n) | (n) | die Übereinstimmung / das Einklang |
+| condescension (n) | (n) | die Herabsetzung / das Untertanenverhalten |
+| to condone (v) | (v) | verzeihen / entschuldigen |
+| to confiscate (v) | (v) | konfiszieren / beschlagnahmen |
+| conflagration (n) | (n) | die Feuerbrand / der Großbrand |
+| confluence (n) | (n) | die Vereinigung / der Zusammenfluss |
+| to confound (v) | (v) | verwirren / täuschen |
+| conjecture (n) | (n) | die Vermutung / der Ratschlag |
+| to conjure (v) | (v) | herbeirufen / zaubern |
+| to connive (v) | (v) | zusammenarbeiten / verschwören |
+| connoisseur (n) | (n) | der Kenner / Experte |
+| connotation (n) | (n) | die Konnotation / der Bezug |
+| conquest (n) | (n) | die Eroberung / der Sieg |
+| consecration (n) | (n) | die Weihe / der Segen |
+| consortium (n) | (n) | das Konsortium / die Verbundene Organisation |
+| consternation (n) | (n) | die Bestürzung / der Schrecken |
+| to construe (v) | (v) | deuten / interpretieren |
+| consummation (n) | (n) | die Vollendung / der Abschluss |
+| contagion (n) | (n) | die Ansteckung / die Infektion |
+| contemptible (adj) | (adj) | verächtlich / wertlos |
+| contingency (n) | (n) | die Kontingenz / die Möglichkeit |
+| continuum (n) | (n) | das Kontinuum / die Fortdauer |
+| to contravene (v) | (v) | verstoßen / gegenwärtig sein |
+| contrition (n) | (n) | die Reue / das Bedauern |
+| conundrum (n) | (n) | das Rätsel / die Dilemma |
+| to convene (v) | (v) | zusammenkommen / versammeln |
+| convergence (n) | (n) | die Konvergenz / der Zusammentreffen |
+| convivial (adj) | (adj) | gesellig / freundlich |
+| convoluted (adj) | (adj) | verwirrt / kompliziert |
+| copious (adj) | (adj) | reichlich / üppig |
+| coquettish (adj) | (adj) | kokettierend / schelmisch |
+| cordial (adj) | (adj) | herzlich / aufrichtig |
+| cornucopia (n) | (n) | die Cornucopia / der Überfluss |
+| corollary (n) | (n) | die Korollar / die Folgerung |
+| to corroborate (v) | (v) | bestätigen / stützen |
+| cortege (n) | (n) | die Kortege / der Zuge |
+| cosmology (n) | (n) | die Kosmologie / der Kosmos |
+| cosmos (n) | (n) | das Kosmos / der Weltall |
+| to countenance (v) | (v) | billigen / unterstützen |
+| to covet (v) | (v) | begehren / verlangen |
+| craven (adj) | (adj) | feige / schüchtern |
+| credulous (adj) | (adj) | gläubig / leichtgläubig |
+| creed (n) | (n) | die Lehre / der Glaube |
+| crevasse (n) | (n) | die Risse / der Spalt |
+| crucible (n) | (n) | die Schmelze / der Prozess |
+| crux (n) | (n) | die Krux / das Wesentliche |
+| crypt (n) | (n) | die Krypta / der Versteck |
+| to culminate (v) | (v) | kulminieren / erreichen |
+| culpable (adj) | (adj) | schuldig / verantwortlich |
+| culprit (n) | (n) | der Täter / der Schuldige |
+| cunning (adj) | (adj) | gerissen / listig |
+| cupidity (n) | (n) | die Gier / der Habsucht |
+| curmudgeon (n) | (n) | der Grämling / der Misantrop |
+| cursory (adj) | (adj) | oberflächlich / flüchtig |
+| to curtail (v) | (v) | kürzen / einschränken |
 
-| Letter B | B   | Translation                       |
-| -------- | --- | --------------------------------- |
-| backlash | (n) | die Gegenreaktion / der Aufschrei |
-| baleful       | (adj)  | unheilvoll / unheilbrütend                       |
-| to balk         | (v)    | zurückschrecken / sich weigern                  |
-| ballast         | (n)    | der Ballast                                     |
-| balm            | (n)    | der Balsam / die Wohltat                        |
-| banal           | (adj)  | banal / platt                                   |
-| bane            | (n)    | der Fluch / das Verderben                       |
-| barrage         | (n)    | das Trommelfall / eine Flut von (Fragen)        |
-| bastion         | (n)    | die Bastion / das Bollwerk                      |
-| to bear up      | (phr v)| durchhalten / sich wacker schlagen            |
-| bedlam          | (n)    | das Irrenhaus / totales Chaos                   |
-| to beguile      | (v)    | betören / täuschen / bezirken                   |
-| behemoth        | (n)    | das Riesenungeheuer / der Gigant                |
-| to beleaguer    | (v)    | belagern / bedrängen                            |
-| to belie         | (v)    | Lügen strafen / täuschen / im Widerspruch stehen zu |
-| bellicose       | (adj)  | kriegerisch / angriffslustig                    |
-| belligerent     | (adj)  | angriffslustig / streitsüchtig / kriegsführend  |
-| bellwether      | (n)    | der Leithammel / Trendsetter                    |
-| to bemoan       | (v)    | beklagen / bejammern                            |
-| benefactor      | (n)    | der Gönner / Wohltäter                            |
-| benevolence     | (n)    | die Güte / das Wohlwollen                         |
-| benevolent      | (adj)  | wohlwollend / gütig                               |
-| to bequeath     | (v)    | vererben / hinterlassen                           |
-| bequest         | (n)    | das Vermächtnis / das Erbe                        |
-| to berate       | (v)    | ausschimpfen / zusammenstauchen                   |
-| bereavement     | (n)    | der schwere Verlust / Trauerfall                  |
-| bereft          | (adj)  | beraubt / einsam / verlassen                      |
-| to beseech      | (v)    | anflehen / inständig bitten                       |
-| to beset        | (v)    | bedrängen / plagen                                |
-| besotted (adj) | (adj)  | vernarrt / betört                                 |
-| to bestow       | (v)    | verleihen / schenken                              |
-| bewitching (adj) | (adj)  | bezaubernd / betörend                             |
-| bigotry (n)     | (n)    | die Intoleranz / der Fanatismus / die Engstirnigkeit |
-| bilateral (adj) | (adj)  | bilateral / zweiseitig                              |
-| to billow       | (v)    | aufblähen / wogen (z.B. Rauch, Segel)             |
-| to bite the bullet (idiom) | (phr v)| in den sauren Apfel beißen                     |
-| blasphemy (n)   | (n)    | die Gotteslästerung / Blasphemie                  |
-| blithe (adj)    | (adj)  | unbeschwert / fröhlich / sorglos                  |
-| boisterous (adj) | (adj)  | ungestüm / ausgelassen / wild                     |
-| bombastic (adj) | (adj)  | bombastisch / hochtrabend (oft negativ für geschwollen)
-| boon (n)        | (n)    | der Segen / die Wohltat                           |
-| boorish (adj)   | (adj)  | flegelhaft / rüpelhaft                            |
-| bounty (n)      | (n)    | das Kopfgeld / die Prämie / reiche Fülle          |
-| bourgeois (n)   | (n)    | das Bürgertum / die Bourgeoisie                   |
-| to brandish     | (v)    | schwingen / fuchteln (mit einer Waffe)            |
-| bravado (n)     | (n)    | das Prunken / die Prahlerei / das Draufgängertum  |
-| bravura (n)     | (n)    | die Bravour / Glanzleistung                       |
-| brevity (n)     | (n)    | die Kürze / Prägnanz                              |
-| brinkmanship (n)| (n)    | die Politik des kalkulierten Risikos (bis an den Rand des Krieges) |
-| brusque (adj)   | (adj)  | brüsk / schroff / barsch                          |
-| bulwark (n)     | (n)    | das Bollwerk / Schutzwall                         |
-| to burgeon       | (v)    | sprießen / florieren / schnell wachsen            |
-| to buttress     | (v)    | untermauern / stützen                             |
-| byword (n)      | (n)    | der Inbegriff / das Paradebeispiel                |
-| Letter C        |        |                                                   |
-| C Translation   |        |                                                   |
-| cabal (n)       | (n)    | die Kabale / die Geheimclique                     |
-| cache (n)       | (n)    | das Versteck / das Geheimlager                    |
-| cacophony (n)   | (n)    | die Kakofonie / der Missklang                     |
-| cadence (n)     | (n)    | der Rhythmus / Tonfall / die Kadenz               |
-| to cajole (v)   | (v)    | einschmeicheln / beschwatzen / umgarnen          |
-| calibre (n)     | (n)    | das Format / Formatklasse / Kaliber               |
-| callous (adj)   | (adj)  | gefühllos / unbarmherzig / kaltherzig            |
-| camaraderie (n) | (n)    | die Kameradschaft / der Zusammenhalt              |
-| candour (n)     | (n)    | die Offenheit / Aufrichtigkeit                      |
-| cantankerous (adj) | (adj) | mürrisch / streitsüchtig / griesgrämig            |
-| to capitulate (v) | (v)  | kapitulieren / aufgeben                            |
-| capricious (adj) | (adj) | launisch / launenhaft / unberechenbar             |
-| cardinal (adj)  | (adj)  | grundlegend / fundamental / Haupt-                 |
-| cartography (n) | (n)    | die Kartografie / Kartierung                      |   
-| caste (n)       | (n)    | die Kaste / Gesellschaftsklasse                   |
-| to castigate (v) | (v)    | züchtigen / scharf rügen / strafen                |
-| cataclysm (n)   | (n)    | die Katastrophe / die Umwälzung                   |
-| catharsis (n)   | (n)    | die Katharsis / seelische Reinigung                 |
-| caustic (adj)   | (adj)  | ätzend / bissig / sarkastisch                     |
-| cavalcade (n)   | (n)    | der Festzug / Reiterzug                           |
-| caveat (n)      | (n)    | der Vorbehalt / die Einschränkung / Warnung       |
-| censure (n)     | (n)    | der Tadel / der Verweis                           |
-| to censure (v)  | (v)    | tadeln / rügen                                    |
-| cessation (n)   | (n)    | die Einstellung / das Aufhören                    |
-| chagrin (n)     | (n)    | der Kummer / der Verdruss / die Enttäuschung      |
-| charlatan (n)   | (n)    | der Scharlatan / Schwindler                       |
-| chasm (n)       | (n)    | die Kluft / die tiefe Spalte                       |
-| to chastise (v) | (v)    | züchtigen / strafen / ausschimpfen                |
-| chattel (n)     | (n)    | die bewegliche Habe / das Eigentum (historisch Sklaven) |
-| chicanery (n)   | (n)    | die Schikane / die Trickserei                     |
-| to chide (v)    | (v)    | schelten / rügen                                  |
-| chronology (n)  | (n)    | die Chronologie                                   |
+## D
+|D||Translation|
+|---|---|---|	
+|daft |(adj)|
+dalliance (n)
+daunting (adj)
+to dawdle (v)
+dearth (n)
+debacle (n)
+to debilitate (v)
+debonair (adj)
+to debunk (v)
+decadence (n)
+deceitful (adj)
+to decimate (v)
+decorous (adj)
+decorum (n)
+decree (n)
+decrepit (adj)
+to decry (v)
+defamation (n)
+deference (n)
+to deflate (v)
+defunct (adj)
+to dehort (v)
+to deign (v)
+deity (n)
+deleterious (adj)
+deliberation (n)
+to delineate (v)
+delineation (n)
+delirium (n)
+deliverance (n)
+deluge (n)
+demagogue (n)
+demarcation (n)
+to demean (v)
+demeanour (n)
+demise (n)
+to demur (v)
+demure (adj)
+to denigrate (v)
+denouement (n)
+to deplete (v)
+deplorable (adj)
+to deplore (v)
+depravity (n)
+derelict (adj)
+to deride (v)
+derisive (adj)
+derogatory (adj)
+to desecrate (v)
+desolation (n)
+despondency (n)
+despondent (adj)
+destitute (adj)
+desultory (adj)
+detachment (n)
+to deter (v)
+detestable (adj)
+detriment (n)
+detrimental (adj)
+deviation (n)
+devious (adj)
+devoid (adj)
+dexterity (n)	dexterous (adj)
+dialectic (n)
+diaphanous (adj)
+diaspora (n)
+diatribe (n)
+dichotomy (n)
+didactic (adj)
+diffident (adj)
+dilatory (adj)
+diligence (n)
+diligently (adv)
+diminution (n)
+dingy (adj)
+dirge (n)
+disaffection (n)
+to discern (v)
+discernment (n)
+disciple (n)
+discord (n)
+discordant (adj)
+discrepancy (n)
+disdain (n) / to disdain (v)
+dishevelled (adj)
+disillusionment (n)
+disingenuous (adj)
+disinterested (adj)
+disjointed (adj)
+dismay (n) / to dismay (v)
+to disparage (v)
+disparate (adj)
+disparity (n)
+dispassionate (adj)
+to dispel (v)
+dispensation (n)
+to dispense (v)
+disposition (n)
+disrepute (n)
+to disseminate (v)
+dissension (n)
+dissent (n)
+dissertation (n)
+dissident (n)
+to dissipate (v)
+dissolution (n)
+dissonance (n)
+divination (n)
+to divulge (v)
+dogged (adj)
+dogma (n)
+dogmatic (adj)
+doldrums (n)
+domicile (n)
+dominion (n)
+dormant (adj)
+dossier (n)
+dotage (n)
+drudgery (n)
+dubious (adj)
+duplicity (n)
+duress (n)
+to dwindle (v)
+dynasty (n)
+E	
+ebullience (n)
+ebullient (adj)
+eccentric (adj)
+echelon (n)
+eclectic (adj)
+edict (n)
+edification (n)
+edifice (n)
+efficacious (adj)
+effigy (n)
+effrontery (n)
+effusion (n)
+effusive (adj)
+egregious (adj)
+elated (adj)
+elation (n)
+to elicit (v)
+eloquent (adj)
+to elucidate (v)
+elusive (adj)
+emaciated (adj)
+to emanate (v)
+to emancipate (v)
+emancipation (n)
+embargo (n)
+to embellish (v)
+to embezzle (v)
+emblem (n)
+to embroil (v)
+emissary (n)
+to emulate (v)
+enclave (n)
+to encroach (v)
+endemic (adj)
+to endow (v)
+to enervate (v)
+to engender (v)
+enigma (n)
+enigmatic (adj)
+enmity (n)
+ennui (n)
+enormity (n)
+to ensue (v)
+to entail (v)
+to enthrall (v)
+enticing (adj)
+entourage (n)
+to entreat (v)
+entrenchment (n)
+entropy (n)
+to enumerate (v)
+envoy (n)
+ephemeral (adj)
+epicentre (n)
+epicure (n)
+epigram (n)
+epilogue (n)
+epiphany (n)	epitaph (n)
+epitome (n)
+to epitomise (v)
+epoch (n)
+equanimity (n)
+equilibrium (n)
+equivocal (adj)
+to eradicate (v)
+erotic (adj)
+to err (v)
+erstwhile (adj)
+erudite (adj)
+erudition (n)
+escapade (n)
+escarpment (n)
+to eschew (v)
+esoteric (adj)
+to espouse (v)
+esteem (n)
+ethereal (adj)
+ethos (n)
+etymology (n)
+eulogy (n)
+euphemism (n)
+euphoria (n)
+evanescent (adj)
+to exacerbate (v)
+exacting (adj)
+to exalt (v)
+exaltation (n)
+exchequer (n)
+to excoriate (v)
+excruciating (adj)
+execrable (adj)
+to exemplify (v)
+to exhort (v)
+exhortation (n)
+exigency (n)
+exigent (adj)
+exodus (n)
+to exonerate (v)
+exorbitant (adj)
+expatriate (n)
+expediency (n)
+expedient (adj)
+to expedite (v)
+exponent (n)
+exposition (n)
+to expound (v)
+to expunge (v)
+exquisite (adj)
+to extol (v)
+extraneous (adj)
+to extricate (v)
+exuberant (adj)
+to exude (v)
+exultation (n)
+F	
+to fabricate (v)
+fabrication (n)
+facet (n)
+facetious (adj)
+facile (adj)
+facsimile (n)
+fallacious (adj)
+fallacy (n)
+fallibility (n)
+famine (n)
+fanaticism (n)
+farce (n)
+farcical (adj)
+fastidious (adj)
+fatalism (n)
+to fathom (v)
+fatuous (adj)
+fauna (n)
+to fawn over (phr v)
+fa?ade (n)
+feckless (adj)
+to feign (v)
+feisty (adj)
+fermentation (n)
+ferocious (adj)
+to ferret out (phr v)
+fervent (adj)
+fervid (adj)
+fervour (n)
+fetish (n)
+feud (n)
+fiasco (n)
+fickle (adj)
+fidelity (n)
+figment (n)
+figurehead (n)
+filibuster (n)
+finesse (n)
+fissure (n)
+flagrant (adj)
+to flaunt (v)	fleeting (adj)
+flimsy (adj)
+flora (n)
+flotsam (n)
+to flout (v)
+flux (n)
+fodder (n)
+foible (n)
+folly (n)
+to foment (v)
+foolhardiness (n)
+foray (n)
+forbearance (n)
+forerunner (n)
+to forestall (v)
+forfeiture (n)
+to forgo (v)
+forlorn (adj)
+formidable (adj)
+to forsake (v)
+forte (n)
+fortitude (n)
+fortuitous (adj)
+to founder (v)
+fractious (adj)
+fraught (adj)
+fray (n)
+frenetic (adj)
+frenzy (n)
+freshman (n)
+fretful (adj)
+frivolous (adj)
+frugal (adj)
+fruition (n)
+fulcrum (n)
+fulsome (adj)
+furor (n)
+furtive (adj)
+futile (adj)
+futility (n)
+G	
+gaffe (n)
+to galvanise (v)
+gambit (n)
+garish (adj)
+to garner (v)
+garrison (n)
+garrulous (adj)
+gauche (adj)
+gauntlet (n)
+genealogy (n)
+genesis (n)
+genial (adj)
+to genuflect (v)
+germane (adj)
+gestation (n)
+gingerly (adv)	gist (n)
+to glean (v)
+glib (adj)
+glossary (n)
+gluttony (n)
+grandeur (n)
+gratification (n)
+gratuitous (adj)
+gravitas (n)
+gregarious (adj)
+grievance (n)
+to grovel (v)
+gruelling (adj)
+guile (n)
+gullible (adj)
+H	
+hackneyed (adj)
+halcyon (n)
+hallmark (n)
+halo (n)
+to hamper (v)
+haphazard (adj)
+hapless (adj)
+harangue (n) / to harangue (v)
+harbinger (n)
+to harness (v)
+to hasten (v)
+haughty (adj)
+havoc (n)
+hearsay (n)
+hedonistic (adj)
+to heed (v)
+hegemony (n)
+heinous (adj)
+heirloom (n)
+henceforth (adv)
+henchman (n)
+to herald (v)	herbivore (n)
+heresy (n)
+heretical (adj)
+hiatus (n)
+hindrance (n)
+hinterland (n)
+histrionic (adj)
+hitherto (adv)
+to hoard (v)
+holocaust (n)
+homage (n)
+homogeneous (adj)
+to hone (v)
+horoscope (n)
+hospice (n)
+hubris (n)
+hybrid (n)
+hyperbole (n)
+hypocrisy (n)
+hypothetical (adj)
+hysteria (n)
+I	
+iconoclasm (n)
+iconoclast (n)
+ideologue (n)
+idiosyncrasy (n)
+idiosyncratic (adj)
+idyllic (adj)
+ignominious (adj)
+ignominy (n)
+ill-advised (adj)
+illicit (adj)
+to imbue (v)
+immaculate (adj)
+immeasurably (adv)
+immensity (n)
+immortal (adj)
+immutable (adj)
+to impair (v)
+impartial (adj)
+impasse (n)
+impassive (adj)
+impeachment (n)
+impeccable (adj)
+to impede (v)
+impediment (n)
+imperative (adj)
+imperceptibly (adv)
+imperialism (n)
+to imperil (v)
+imperious (adj)
+impertinent (adj)
+imperturbable (adj)
+impervious (adj)
+impetuous (adj)
+impetus (n)
+implacable (adj)
+implausible (adj)
+impracticable (adj)
+impregnable (adj)
+impromptu (adj)
+impropriety (n)
+impudence (n)
+to impugn (v)
+impunity (n)
+inadequacy (n)
+inadvertent (adj)
+inane (adj)
+to inaugurate (v)
+incarnation (n)
+incendiary (adj)
+to incense (v)
+inception (n)
+incessant (adj)
+incisive (adj)
+to incite (v)
+inclement (adj)
+inclination (n)
+inclusive (adj)
+incomprehensible (adj)
+inconceivable (adj)
+incongruity (n)
+incongruous (adj)
+incontrovertible (adj)
+incorrigible (adj)
+incredulity (n)
+incredulous (adj)
+incumbency (n)
+incumbent (n)
+incursion (n)
+indefatigable (adj)
+indelible (adj)
+to indemnify (v)
+indifference (n)
+indifferent (adj)
+indignant (adj)
+indignation (n)
+indiscretion (n)	indoctrination (n)
+indolent (adj)
+indomitable (adj)
+inducement (n)
+induction (n)
+indulgent (adj)
+industrious (adj)
+ineffable (adj)
+inept (adj)
+ineptitude (n)
+inequity (n)
+inertia (n)
+inexhaustible (adj)
+inexorable (adj)
+infallible (adj)
+infamy (n)
+infatuation (n)
+inferno (n)
+infirmary (n)
+inflammatory (adj)
+influx (n)
+infraction (n)
+ingenious (adj)
+ingenuity (n)
+ingenuous (adj)
+ingrained (adj)
+inhospitable (adj)
+inhumanity (n)
+inimical (adj)
+iniquitous (adj)
+injunction (n)
+inkling (n)
+innocuous (adj)
+innuendo (n)
+innumerable (adj)
+inquisition (n)
+insatiable (adj)
+inscrutable (adj)
+insidious (adj)
+insipid (adj)
+insolent (adj)
+insoluble (adj)
+insouciant (adj)
+to instigate (v)
+insurgency (n)
+insurmountable (adj)
+insurrection (n)
+intelligentsia (n)
+inter alia (adv)
+interlude (n)
+intermittently (adv)
+internecine (adj)
+intimation (n)
+intimidation (n)
+intransigence (n)
+intransigent (adj)
+intrepid (adj)
+intrinsic (adj)
+introspection (n)
+intrusive (adj)
+intuition (n)
+to inundate (v)
+invasive (adj)
+invective (n)
+inveterate (adj)
+invidious (adj)
+invocation (n)
+iota (n)
+irascible (adj)
+ire (n)
+to irk (v)
+irreproachable (adj)
+irreverent (adj)
+itinerant (adj)
+itinerary (n)
+Conversation app preview
+Practice Real English Conversations
+Listen to natural spoken English and choose how to respond
+Build vocabulary with key phrases and definitions
+Replay audio at slow speed to catch every word
+Review the full transcript when you've finished
+Try a Conversation Now | See our guide
+
+J	
+jaded (adj)
+jamboree (n)
+jargon (n)
+jaundiced (adj)
+jaunt (n)
+to jeopardise (v)
+jingoism (n)
+jocular (adj)
+jocularity (n)
+journeyman (n)	joust (n)
+jubilation (n)
+jubilee (n)
+judicious (adj)
+juggernaut (n)
+juncture (n)
+jurisprudence (n)
+jurist (n)
+to juxtapose (v)
+juxtaposition (n)
+K	
+kaleidoscope (n)
+ken (n)
+kernel (n)
+keynote (n)
+to kindle (v)	kindred (n)
+kinship (n)
+knoll (n)
+kudos (n)
+L	
+labyrinth (n)
+lackadaisical (adj)
+lacklustre (adj)
+laconic (adj)
+laggard (n)
+to lambaste (v)
+to lament (v)
+lamentable (adj)
+lampoon (n)
+languid (adj)
+to languish (v)
+lapse (n)
+larceny (n)
+largesse (n)
+latent (adj)
+latitude (n)
+to laud (v)
+laudable (adj)
+laureate (n)
+lectern (n)
+leery of (adj)
+leeway (n)
+lenient (adj)
+lethargic (adj)
+lethargy (n)
+level-headed (adj)
+levity (n)	to levy (v)
+lexicon (n)
+liaison (n)
+licentious (adj)
+limbo (n)
+lineage (n)
+linguist (n)
+to liquidate (v)
+liquidation (n)
+litany (n)
+litigant (n)
+litigious (adj)
+liturgy (n)
+to loathe (v)
+longevity (n)
+loophole (n)
+loquacious (adj)
+lore (n)
+lout (n)
+lucid (adj)
+ludicrous (adj)
+lugubrious (adj)
+lukewarm (adj)
+luminary (n)
+luminous (adj)
+lustre (n)
+luxuriant (adj)
+M	
+machination (n)
+machismo (n)
+macrocosm (n)
+madcap (adj)
+maelstrom (n)
+maestro (n)
+magnanimous (adj)
+magnate (n)
+mainstay (n)
+malady (n)
+malaise (n)
+malcontent (n)
+malevolent (adj)
+malfeasance (n)
+malice (n)
+to malign (v)
+malleable (adj)
+malodorous (adj)
+manifestation (n)
+mannerism (n)
+manor (n)
+mantle (n)
+marauder (n)
+marquee (n)
+martyrdom (n)
+masochism (n)
+masquerade (n)
+materialism (n)
+matriarch (n)
+maudlin (adj)
+maverick (n)
+maxim (n)
+mayhem (n)
+meagre (adj)
+mediator (n)
+mediocrity (n)
+megalomania (n)
+melancholy (n)
+melee (n)
+memento (n)
+memorabilia (n)
+menacing (adj)
+mendacious (adj)
+mercenary (n)	meritocracy (n)
+messiah (n)
+metamorphosis (n)
+methodology (n)
+meticulous (adj)
+mettle (n)
+microcosm (n)
+minion (n)
+minutiae (n)
+mirage (n)
+mire (n)
+misanthrope (n)
+mischievous (adj)
+misgiving (n)
+mishap (n)
+misnomer (n)
+misogyny (n)
+to mitigate (v)
+modicum (n)
+mogul (n)
+to mollify (v)
+moniker (n)
+monolith (n)
+monologue (n)
+montage (n)
+moratorium (n)
+mordant (adj)
+morgue (n)
+moribund (adj)
+morose (adj)
+mortal (adj / n)
+mortifying (adj)
+mosaic (n)
+to muffle (v)
+multitude (n)
+mundane (adj)
+munificent (adj)
+munition (n)
+mural (n)
+mutable (adj)
+myopic (adj)
+myriad (n / adj)
+mystique (n)
+N	
+nadir (n)
+to nag (v)
+naivety (n)
+namesake (n)
+narcissism (n)
+nascent (adj)
+nebulous (adj)
+nefarious (adj)
+negligence (n)
+nemesis (n)
+neophyte (n)
+nepotism (n)	nexus (n)
+nihilism (n)
+nirvana (n)
+nomenclature (n)
+nonchalance (n)
+nonchalant (adj)
+nonentity (n)
+notoriety (n)
+novice (n)
+noxious (adj)
+nuance (n)
+O	
+oaf (n)
+oasis (n)
+obdurate (adj)
+to obfuscate (v)
+obfuscation (n)
+obituary (n)
+to obliterate (v)
+oblivion (n)
+obscenity (n)
+obscure (adj)
+obscurity (n)
+obsequious (adj)
+observance (n)
+obsolescence (n)
+obsolete (adj)
+obstinate (adj)
+obstreperous (adj)
+obtuse (adj)
+to obviate (v)
+ode (n)
+odyssey (n)
+officious (adj)
+oligarchy (n)
+omen (n)
+ominous (adj)
+omission (n)
+omnipotence (n)
+omniscience (n)	onerous (adj)
+onset (n)
+onslaught (n)
+onus (n)
+opacity (n)
+opaque (adj)
+opportunistic (adj)
+opulence (n)
+opulent (adj)
+oracle (n)
+orator (n)
+oratory (n)
+ordeal (n)
+ordinance (n)
+ornate (adj)
+orthodoxy (n)
+oscillation (n)
+ostensible (adj)
+ostentation (n)
+ostentatious (adj)
+to ostracise (v)
+ostracism (n)
+to oust (v)
+to outweigh (v)
+ovation (n)
+oversight (n)
+overweening (adj)
+oxymoron (n)
+P	
+pacifism (n)
+to pacify (v)
+pageant (n)
+pageantry (n)
+painstaking (adj)
+palatable (adj)
+palatial (adj)
+pallbearer (n)
+to palliate (v)
+pallid (adj)
+pallor (n)
+palpable (adj)
+palpitation (n)
+paltry (adj)
+to pamper (v)
+panacea (n)
+panache (n)
+pandemonium (n)
+pang (n)
+panorama (n)
+parable (n)
+paradigm (n)
+paradox (n)
+paragon (n)
+paramount (adj)
+paraphernalia (n)
+pariah (n)
+parity (n)
+parlance (n)
+parochial (adj)
+parody (n)
+parsimonious (adj)
+parsimony (n)
+partisan (adj / n)
+partisanship (n)
+patently (adv)
+pathos (n)
+patriarch (n)
+patronage (n)
+paucity (n)
+pavilion (n)
+pedagogy (n)
+pedant (n)
+pedantic (adj)
+pedantry (n)
+pedestal (n)
+pedigree (n)
+peevish (adj)
+pejorative (adj)
+penchant (n)
+pending (adj)
+penitence (n)
+penitent (adj)
+pennant (n)
+pensive (adj)
+penury (n)
+peremptory (adj)
+perennial (adj)
+perfidious (adj)
+perfunctory (adj)
+peril (n)
+perilous (adj)
+perimeter (n)
+periphery (n)
+perjurer (n)
+perjury (n)
+permanence (n)
+to permeate (v)
+permutation (n)
+pernicious (adj)
+perpetrator (n)
+perpetual (adj)
+to perpetuate (v)
+perplexity (n)
+to persecute (v)
+perseverance (n)
+perspicacious (adj)
+perturbed (adj)
+to peruse (v)
+to pervade (v)
+pervasive (adj)
+to pervert (v)
+pessimism (n)
+petulant (adj)
+philanthropic (adj)
+philanthropist (n)
+philistine (n)
+phlegmatic (adj)
+phoenix (n)
+piety (n)
+to pillage (v)
+pinnacle (n)
+pioneering (adj)
+pious (adj)
+pique (n)
+piracy (n)
+pitfall (n)
+pithy (adj)
+pittance (n)
+to placate (v)
+placebo (n)
+placid (adj)
+plagiarism (n)
+plaintiff (n)
+plasticity (n)
+platitude (n)
+playwright (n)
+plebiscite (n)
+plethora (n)
+plight (n)
+ploy (n)
+to plunder (v)	podium (n)
+poignancy (n)
+poignant (adj)
+poise (n)
+polemic (n)
+polyglot (n)
+pomp (n)
+pompous (adj)
+to ponder (v)
+ponderous (adj)
+to pontificate (v)
+populace (n)
+populism (n)
+to portend (v)
+portent (n)
+portentous (adj)
+posterity (n)
+posthumous (adj)
+postmortem (n)
+to postulate (v)
+pragmatism (n)
+pragmatist (n)
+preamble (n)
+precarious (adj)
+precedence (n)
+precipice (n)
+to precipitate (v)
+precipitous (adj)
+to preclude (v)
+precocious (adj)
+precursor (n)
+predilection (n)
+predominance (n)
+preeminent (adj)
+to preempt (v)
+prelude (n)
+premonition (n)
+preponderance (n)
+preposterous (adj)
+prerequisite (n)
+prerogative (n)
+presumption (n)
+presumptuous (adj)
+pretence (n)
+pretender (n)
+pretentious (adj)
+pretext (n)
+prevalent (adj)
+to prevaricate (v)
+primacy (n)
+primeval (adj)
+pristine (adj)
+privation (n)
+probity (n)
+proclamation (n)
+proclivity (n)
+to procrastinate (v)
+to procure (v)
+procurement (n)
+prodigal (adj)
+prodigious (adj)
+prodigy (n)
+profane (adj)
+profanity (n)
+to profess (v)
+to proffer (v)
+proficiency (n)
+profligate (adj)
+profusion (n)
+progeny (n)
+prognosis (n)
+prohibitive (adj)
+proliferation (n)
+prolific (adj)
+prologue (n)
+promiscuity (n)
+propagandist (n)
+propensity (n)
+prophecy (n)
+propitious (adj)
+proponent (n)
+proprietor (n)
+propriety (n)
+prosaic (adj)
+to proscribe (v)
+protagonist (n)
+prototype (n)
+to protract (v)
+protégé (n)
+provenance (n)
+proverb (n)
+providence (n)
+proviso (n)
+prowess (n)
+proximity (n)
+proxy (n)
+prudence (n)
+prudent (adj)
+pseudonym (n)
+psyche (n)
+puerile (adj)
+pugnacious (adj)
+pulpit (n)
+punctilious (adj)
+pundit (n)
+pungency (n)
+pungent (adj)
+purge (n)
+purist (n)
+to purport (v)
+purveyor (n)
+pusillanimous (adj)
+Q	
+quack (n)
+quadrant (n)
+quagmire (n)
+quaint (adj)
+qualm (n)
+quandary (n)
+quarantine (n)
+quarry (n)
+quartet (n)
+to quash (v)
+quaver (n)
+to quell (v)	querulous (adj)
+quibble (n)
+quicksand (n)
+quiescent (adj)
+quintessence (n)
+quintessential (adj)
+quintet (n)
+quip (n)
+quiver (n)
+quixotic (adj)
+quorum (n)
+R	
+rabble (n)
+radiance (n)
+radicalism (n)
+rambunctious (adj)
+ramification (n)
+rancour (n)
+ransom (n)
+rapacious (adj)
+rapacity (n)
+rapport (n)
+rapture (n)
+rascal (n)
+rashness (n)
+ratification (n)
+to ratify (v)
+rationale (n)
+rationalism (n)
+raucous (adj)
+ravage (n)
+ravine (n)
+to rebuff (v)
+to rebuke (v)
+rebuttal (n)
+recalcitrance (n)
+recalcitrant (adj)
+to recant (v)
+recidivism (n)
+reciprocal (adj)
+to reciprocate (v)
+reciprocity (n)
+recklessness (n)
+reclamation (n)
+recluse (n)
+reclusive (adj)
+to reconcile (v)
+recondite (adj)
+reconnaissance (n)
+recourse (n)
+recrimination (n)
+rectification (n)
+to rectify (v)
+rectitude (n)
+to redeem (v)
+redemption (n)
+redress (n)
+refinery (n)
+reformation (n)
+refractory (adj)
+refutation (n)
+to refute (v)
+regent (n)
+registrar (n)
+regression (n)
+reimbursement (n)
+reincarnation (n)
+reiteration (n)
+to relegate (v)
+relegation (n)
+relic (n)
+to relinquish (v)
+to relish (v)
+reluctance (n)
+remembrance (n)
+reminiscent (adj)
+remiss (adj)
+remission (n)
+to remit (v)
+remnant (n)
+remorse (n)
+remuneration (n)
+renaissance (n)
+rendition (n)
+renegade (n)	to renege (v)
+to renounce (v)
+renown (n)
+reparation (n)
+repatriation (n)
+to repeal (v)
+repentance (n)
+repercussion (n)
+repertoire (n)
+to replenish (v)
+replete (adj)
+repository (n)
+reprehensible (adj)
+repression (n)
+reprieve (n)
+reprimand (n) / to reprimand (v)
+reprisal (n)
+to reproach (v)
+to repudiate (v)
+repudiation (n)
+repugnance (n)
+repugnant (adj)
+repute (n)
+requisite (n)
+requisition (n)
+to rescind (v)
+residual (adj)
+resilience (n)
+resilient (adj)
+resolute (adj)
+resolutely (adv)
+resonance (n)
+respite (n)
+resplendent (adj)
+restitution (n)
+restive (adj)
+resurgence (n)
+resurrection (n)
+to retaliate (v)
+reticence (n)
+reticent (adj)
+retort (n)
+to retract (v)
+retraction (n)
+retribution (n)
+retrospection (n)
+revelry (n)
+reverberation (n)
+to revere (v)
+reverent (adj)
+reverential (adj)
+reverie (n)
+revisionism (n)
+revocation (n)
+to revoke (v)
+rift (n)
+righteousness (n)
+rigmarole (n)
+rigorous (adj)
+rigour (n)
+ringleader (n)
+rite (n)
+rogue (n)
+rostrum (n)
+rout (n)
+rubric (n)
+ruckus (n)
+rudiment (n)
+ruination (n)
+to ruminate (v)
+rumination (n)
+to rupture (v)
+ruse (n)
+S	
+sabotage (n)
+saboteur (n)
+sacrilege (n)
+sacrosanct (adj)
+to safeguard (v)
+saga (n)
+sagacious (adj)
+sage (n)
+sainthood (n)
+salacious (adj)
+salient (adj)
+salubrious (adj)
+salutation (n)
+salvation (n)
+sanctimonious (adj)
+sanctity (n)
+sanctuary (n)
+sanguine (adj)
+sarcasm (n)
+sardonic (adj)
+to satiate (v)
+satire (n)
+satirist (n)
+savagery (n)
+savant (n)
+scaffold (n)
+scapegoat (n)
+scarcity (n)
+scathing (adj)
+schism (n)
+scion (n)
+to scorn (v)
+scoundrel (n)
+scourge (n)
+scruple (n)
+scrupulous (adj)
+to scrutinise (v)
+scurrilous (adj)
+secession (n)
+seclusion (n)
+secretariat (n)
+sedentary (adj)
+sediment (n)
+seditious (adj)
+sedulous (adj)
+seer (n)
+segregation (n)
+seizure (n)
+semantics (n)
+semblance (n)
+seminal (adj)
+senility (n)
+sequel (n)
+sequestration (n)
+serendipitous (adj)
+serenity (n)
+serfdom (n)
+servile (adj)
+servility (n)
+servitude (n)
+severance (n)
+severity (n)
+shackle (n)
+shambles (n)
+shard (n)
+sheen (n)
+to shirk (v)
+shoddy (adj)
+shrewdness (n)
+shrine (n)
+shroud (n)
+shrouded (adj)
+to shun (v)
+siege (n)
+silhouette (n)
+simile (n)
+simpleton (n)
+sinecure (n)
+singular (adj)
+singularity (n)
+siren (n)
+skirmish (n)
+skullduggery (n)
+slander (n) / to slander (v)
+sloth (n)
+slumber (n)
+smattering (n)
+snare (n)
+snooty (adj)
+snub (n)
+sobriety (n)
+sojourn (n)
+solace (n)
+solemn (adj)
+solemnity (n)
+solicitor (n)
+solicitous (adj)
+soliloquy (n)
+solitary (adj)
+solitude (n)
+solstice (n)
+sombre (adj)
+sophistry (n)
+sophomore (n) (US specific)
+sordid (adj)
+sovereign (n)
+to sow (v)
+spasm (n)
+spate (n)
+to spawn (v)	specious (adj)
+spectre (n)
+speculator (n)
+spinster (n)
+splendour (n)
+spontaneity (n)
+sprawl (n)
+spur (n)
+spurious (adj)
+to spurn (v)
+squadron (n)
+squalid (adj)
+squalor (n)
+to squander (v)
+stagnant (adj)
+staid (adj)
+stalemate (n)
+stalwart (n)
+stamina (n)
+stampede (n)
+standoff (n)
+standstill (n)
+stanza (n)
+stasis (n)
+stately (adj)
+statesmanship (n)
+statute (n)
+staunch (adj)
+steadfastness (n)
+stealth (n)
+stench (n)
+steward (n)
+stewardship (n)
+stickler (n)
+to stifle (v)
+stigma (n)
+stint (n)
+to stipulate (v)
+stoic (adj)
+stoicism (n)
+stolid (adj)
+stopgap (n)
+stowaway (n)
+stratagem (n)
+strategist (n)
+stratification (n)
+stratum (n)
+stricture (n)
+strident (adj)
+strife (n)
+stringency (n)
+stringent (adj)
+stronghold (n)
+stupor (n)
+subconscious (n)
+to subdue (v)
+to subjugate (v)
+sublime (adj)
+subordinate (adj / n)
+subordination (n)
+subpoena (n)
+subservience (n)
+subsistence (n)
+to substantiate (v)
+substantiation (n)
+subterfuge (n)
+subtlety (n)
+subversion (n)
+subversive (adj)
+to subvert (v)
+succinct (adj)
+to succumb (v)
+sufficiency (n)
+suffrage (n)
+suffragette (n)
+sullen (adj)
+summation (n)
+summons (n)
+sumptuous (adj)
+superficial (adj)
+superfluous (adj)
+to supersede (v)
+superstition (n)
+supine (adj)
+to supplant (v)
+supple (adj)
+supremacist (n)
+supremacy (n)
+surfeit (n)
+to surmise (v)
+to surmount (v)
+to surpass (v)
+surreptitious (adj)
+surrogate (n)
+susceptibility (n)
+susceptible (adj)
+sustenance (n)
+swathe (n)
+swindle (n)
+sycophancy (n)
+sycophant (n)
+sycophantic (adj)
+syllabus (n)
+symbiosis (n)
+symbolism (n)
+symposium (n)
+syndicate (n)
+synergy (n)
+synopsis (n)
+T	
+tableau (n)
+tabloid (n)
+taboo (n)
+tacit (adj)
+taciturn (adj)
+tact (n)
+tactician (n)
+taint (n)
+talisman (n)
+tangential (adj)
+tangible (adj)
+tantamount (adj)
+tantrum (n)
+tariff (n)
+to tarnish (v)
+taskmaster (n)
+tawdry (adj)
+tedious (adj)
+tedium (n)
+telepathy (n)
+temerity (n)
+temperament (n)
+temperance (n)
+tempestuous (adj)
+tempo (n)
+temporal (adj)
+tenacious (adj)
+tenacity (n)
+tenet (n)
+tenor (n)
+tentative (adj)
+tenuous (adj)
+termination (n)
+terminology (n)
+terminus (n)
+terse (adj)
+testament (n)
+testimonial (n)
+tether (n)
+theatricality (n)
+theologian (n)
+theorem (n)
+thesaurus (n)
+thicket (n)
+thoroughfare (n)
+thrall (n)
+thrift (n)
+throwback (n)
+to thwart (v)
+timbre (n)
+timidity (n)
+timorous (adj)
+tipster (n)
+tirade (n)
+titan (n)
+tithe (n)
+token (n)
+tokenism (n)
+tombstone (n)
+tome (n)
+tonnage (n)
+topography (n)
+torment (n) / to torment (v)
+tornado (n)
+torpid (adj)	torpor (n)
+torque (n)
+torrent (n)
+torrid (adj)
+tortuous (adj)
+totalitarian (adj)
+touchstone (n)
+tourniquet (n)
+toxicity (n)
+tract (n)
+tractable (adj)
+tradesman (n)
+traditionalism (n)
+trafficker (n)
+trailblazer (n)
+trajectory (n)
+trance (n)
+tranquil (adj)
+tranquillity (n)
+to transcend (v)
+transcendence (n)
+to transcribe (v)
+to transgress (v)
+transgression (n)
+transient (adj)
+translucent (adj)
+travesty (n)
+treacherous (adj)
+treachery (n)
+treason (n)
+treatise (n)
+tremor (n)
+trenchant (adj)
+trepidation (n)
+tribalism (n)
+tribulation (n)
+tribunal (n)
+tribune (n)
+tributary (n)
+trickery (n)
+trickster (n)
+trifle (n)
+trilogy (n)
+trinket (n)
+trite (adj)
+troupe (n)
+truculent (adj)
+trudge (n)
+truism (n)
+to truncate (v)
+trusteeship (n)
+tumult (n)
+tumultuous (adj)
+tundra (n)
+turbulence (n)
+turbulent (adj)
+turmoil (n)
+turncoat (n)
+turpitude (n)
+tutelage (n)
+twilight (n)
+tycoon (n)
+typhoon (n)
+tyranny (n)
+tyrant (n)
+U	
+ubiquitous (adj)
+ubiquity (n)
+ultimatum (n)
+umbrage (n)
+umpire (n)
+unanimity (n)
+unanimous (adj)
+unctuous (adj)
+undaunted (adj)
+undercurrent (n)
+underdog (n)
+underling (n)
+underpinning (n)
+understatement (n)
+understudy (n)
+undertaker (n)
+undertaking (n)
+undertone (n)
+underworld (n)
+underwriter (n)
+undoing (n)
+unease (n)
+unenviable (adj)
+unequivocal (adj)
+unfathomable (adj)
+unification (n)
+uniformity (n)
+unison (n)
+universality (n)
+unpalatable (adj)	unpretentious (adj)
+unremitting (adj)
+unrivalled (adj)
+unruly (adj)
+unsullied (adj)
+untenable (adj)
+unthinkable (adj)
+untrodden (adj)
+unwieldy (adj)
+unwitting (adj)
+to upbraid (v)
+upheaval (n)
+upkeep (n)
+uprising (n)
+uproar (n)
+uproarious (adj)
+upshot (n)
+upsurge (n)
+upturn (n)
+urbane (adj)
+urgency (n)
+usher (n)
+to usurp (v)
+usurpation (n)
+utensil (n)
+utilitarianism (n)
+utmost (adj)
+utopia (n)
+utopianism (n)
+utterance (n)
+V	
+vacancy (n)
+to vacillate (v)
+vacillation (n)
+vacuous (adj)
+vagary (n)
+vagrant (n)
+vain (adj)
+to validate (v)
+valour (n)
+valuation (n)
+vandal (n)
+vandalism (n)
+vanguard (n)
+vanity (n)
+to vanquish (v)
+vanquished (adj)
+vapid (adj)
+variance (n)
+variegated (adj)
+vastness (n)
+vault (n)
+vehemence (n)
+vehemently (adv)
+velocity (n)
+velvet (n)
+venal (adj)
+vendetta (n)
+veneer (n)
+venerable (adj)
+veneration (n)
+vengeance (n)
+venom (n)
+vent (n)
+veracity (n)
+verbatim (adv)
+verbose (adj)
+verdant (adj)
+verge (n)
+verification (n)
+verisimilitude (n)
+vermin (n)
+vernacular (n)
+versatility (n)
+vertex (n)
+vertigo (n)
+verve (n)
+vestige (n)
+veto (n) / to veto (v)	vexation (n)
+vexatious (adj)
+viability (n)
+vicarious (adj)
+vicinity (n)
+vicissitude (n)
+victor (n)
+vigil (n)
+vigilance (n)
+vigilante (n)
+vigour (n)
+vile (adj)
+vilification (n)
+to vilify (v)
+villain (n)
+villainy (n)
+to vindicate (v)
+vindication (n)
+vindictive (adj)
+vindictiveness (n)
+vintage (n)
+viper (n)
+virtuosity (n)
+virtuoso (n)
+virulence (n)
+virulent (adj)
+visage (n)
+visceral (adj)
+visionary (n)
+vista (n)
+vitality (n)
+vitriolic (adj)
+to vituperate (v)
+vivacious (adj)
+vivacity (n)
+vocation (n)
+vociferous (adj)
+vogue (n)
+void (n / adj)
+volatile (adj)
+volatility (n)
+volition (n)
+volley (n)
+voracious (adj)
+vortex (n)
+voucher (n)
+voyeur (n)
+vulgarity (n)
+W	
+to wager (v)
+waiver (n)
+walkout (n)
+to wane (v)
+wanton (adj)
+wantonness (n)
+warden (n)
+warlord (n)
+warranty (n)
+wasteland (n)
+watchdog (n)
+watchword (n)
+watershed (n)
+to waver (v)
+wayward (adj)
+waywardness (n)
+weaponry (n)
+weariness (n)
+wedlock (n)
+wharf (n)
+wheedling (adj)
+whereby (adv)
+wherewithal (n)
+whim (n)
+whimsical (adj)
+whimsy (n)	whirlpool (n)
+whirlwind (n)
+whistleblower (n)
+whitewash (n)
+wickedness (n)
+to wield (v)
+wilderness (n)
+wildfire (n)
+willfulness (n)
+windfall (n)
+wisp (n)
+wistful (adj)
+wistfulness (n)
+witchcraft (n)
+to withstand (v)
+witticism (n)
+wizardry (n)
+wizened (adj)
+woe (n)
+wordiness (n)
+workmanship (n)
+wrath (n)
+wreckage (n)
+wretched (adj)
+wrongdoer (n)
+wry (adj)
+X Y Z	
+xenophobe (n)
+xenophobia (n)
+yardstick (n)
+yarn (n)
+yearning (n)
+yoke (n)
+yokel (n)
+youngster (n)
+zeal (n)	zealot (n)
+zealotry (n)
+zealous (adj)
+zeitgeist (n)
+zenith (n)
+zest (n)
+zigzag (n)
+zodiac (n)
+zoology (n)
+
 
